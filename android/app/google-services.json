@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950699161774",
+    "project_id": "package-tracker-a2b2e",
+    "storage_bucket": "package-tracker-a2b2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950699161774:android:9acaf4230d5ba164b6153f",
+        "android_client_info": {
+          "package_name": "com.mycompany.barcodescanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHtqUtMEx8KnL0Cvfz8cLGifilZv4_g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
